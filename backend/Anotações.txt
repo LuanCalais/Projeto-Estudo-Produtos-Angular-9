@@ -1,0 +1,6 @@
+mkdir nomeDaPasta - Cria uma nova pasta 
+cd nomeDaPasta - navega pelas pastas
+npm init -y - Cria um arquivo package.json(para colocar dependências)
+npm i json-server - Cria um json-server (lê um arquivo que possui um json e cria uma API baseada nesse json)
+
+n
